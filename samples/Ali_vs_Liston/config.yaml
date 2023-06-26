@@ -1,0 +1,44 @@
+
+# Basic output settings
+settings:
+  auto_production: False
+  analytics_package: False
+  custom_hl_package: False
+
+# Intro panel
+intro:
+  include: True
+  seconds: 5
+  demo-info: "BoxingVidProd placeholder"
+  feed-info: "Rolleiflex 3.5 T 6x6"
+
+# AI production parameters
+production:
+  num-cams: 1
+  rounds-scheduled: 15
+  branding: 
+    rnd-text:
+    stat-text: Boston Garden
+  names: 
+    red: "Sonny Liston"
+    blue: "Cassius Clay"
+  audio:
+    audio-cam: "cam_00"
+    fade-seconds: 3
+    round-hl-music: True
+    fight-hl-music: True
+    track-list: None
+  info-box: Jabbr.AI
+  weight-class: "93 - 97kg"
+  frame-rate: 
+  rnd-length-s: 
+  pre-fight-max-s: 
+  break-stages: 
+  post-fight-stages: 
+  corner-close-ups: False
+  rnd-highlights:
+    slow-motion-factor: 
+    hl-time-s: 
+
+
+
