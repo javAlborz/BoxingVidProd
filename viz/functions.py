@@ -116,7 +116,7 @@ def get_best_view_angles(view_angles, window_size, weight_factor):
 def advance_frame_with_best_view(frame_index, caps, frame_offset, best_view):
     ret, frame = {}, {}
     for camera in ["cam_00", "cam_01", "cam_02"]:
-        if camera in caps:  # Added this line to check if the camera exists
+        if camera in caps:  # Check if the camera exists
             if camera == "cam_00" and frame_index < max(frame_offset.get("cam_01", 0), frame_offset.get("cam_02", 0)):
                 ret[camera], frame[camera] = False, None
             else:
@@ -205,7 +205,7 @@ def create_overlay(frame, frame_index, rounds, font, font_scale, font_color, fon
     timer_color = (255, 255, 255)  
     # Set timer position
     timer_x = 5  # position timer to the left of other text
-    timer_y = 110  # adjust as needed
+    timer_y = 110  
     # Add timer text to the overlay
     cv2.putText(overlay, timer_text, (timer_x, timer_y), font, font_scale, timer_color, font_thickness)
     timer_box_color = (100, 100, 100) 

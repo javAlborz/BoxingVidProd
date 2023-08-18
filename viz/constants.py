@@ -44,6 +44,6 @@ CAPTURE_FILES = [
     os.path.join(BASE_DIR, "original_cam_01.mp4"),
     os.path.join(BASE_DIR, "original_cam_02.mp4")
 ]
-OUTPUT_FILE = "./NEW_output_timestamp_angles_overlay.mp4"
+OUTPUT_FILE = "./output.mp4"
 
 
