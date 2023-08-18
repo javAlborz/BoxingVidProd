@@ -57,7 +57,7 @@ This YAML file lets you tailor the video production parameters to your preferenc
 
 
 2. Run the main script:    
-    python main.py --frame_index [your-desired-frame-index]
+    python viz/main.py --frame_index [your-desired-frame-index]
 
 
 ## Video Demo
