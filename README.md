@@ -25,10 +25,10 @@ AutoVidProd is a software suite designed to streamline the production process of
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/javAlborz/BoxingVidProd#introduction
+   git clone https://github.com/javAlborz/BoxingVidProd
 
 2. Navigate to the project directory:
-    cd [BoxingVidProd]
+    cd BoxingVidProd
 
 3. Install the required Python packages:
     pip install -r requirements.txt
