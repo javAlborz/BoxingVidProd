@@ -38,7 +38,7 @@ AutoVidProd is a software suite designed to streamline the production process of
 
 Before running AutoVidProd, ensure you have the necessary configuration files set up:
 
-### Time Stamps (`time_stamps.json`)
+`time_stamps.json`
 
 This file provides crucial timestamp information for your video:
 
@@ -47,11 +47,11 @@ This file provides crucial timestamp information for your video:
 - **Win-Declaration**: Denotes the frame where the winner is declared.
 
 To generate the `rounds` and `sync` parameters, refer to:
-- [Repo2](https://github.com/javAlborz/MultiVidSynch) - For synchronizing multi-camera views.
-- [Repo1](https://github.com/javAlborz/RoundBreakDetector) - For deriving round timestamps.
+- [MultiVidSynch](https://github.com/javAlborz/MultiVidSynch) - For synchronizing multi-camera views.
+- [RoundBreakDetector](https://github.com/javAlborz/RoundBreakDetector) - For deriving round timestamps.
 
 
-### Configuration Settings (`config.yaml`)
+`config.yaml`
 
 This YAML file lets you tailor the video production parameters to your preferences
 
