@@ -46,7 +46,7 @@ This file provides crucial timestamp information for your video:
 - **Sync**: Contains frame offsets essential for synchronizing multiple camera views.
 - **Win-Declaration**: Denotes the frame where the winner is declared.
 
-To generate the `rounds` and `sync` parameters, refer to:
+To generate the rounds and sync parameters, refer to:
 - [MultiVidSynch](https://github.com/javAlborz/MultiVidSynch) - For synchronizing multi-camera views.
 - [RoundBreakDetector](https://github.com/javAlborz/RoundBreakDetector) - For deriving round timestamps.
 
