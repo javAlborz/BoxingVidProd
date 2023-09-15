@@ -67,7 +67,7 @@ Showcasing a side-by-side comparison between the raw camera streams and the enha
 | Original Camera Streams | AutoVidProd Output |
 |:-----------------------:|:------------------:|
 | [![Original Camera Streams](http://img.youtube.com/vi/XWQKIbC_E2Q/0.jpg)](https://www.youtube.com/watch?v=XWQKIbC_E2Q "Original Camera Streams") | [![AutoVidProd Output](http://img.youtube.com/vi/knAk3Bfg11Y/0.jpg)](http://www.youtube.com/watch?v=knAk3Bfg11Y "AutoVidProd Output") |
-
+| [![Original Camera Streams](http://img.youtube.com/vi/oZl95mU2DrE/0.jpg)](https://www.youtube.com/watch?v=oZl95mU2DrE "Original Camera Streams") | [![AutoVidProd Output](http://img.youtube.com/vi/lD1YHWC7lzo/0.jpg)](http://www.youtube.com/watch?v=lD1YHWC7lzo "AutoVidProd Output") |
 
 
 
