@@ -1,4 +1,4 @@
-# AutoVidProd
+# BoxingVidProd
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@
 - [License](#license)
 
 ## Introduction
-AutoVidProd is a software suite designed to streamline the production process of videos by automating tasks such as camera angle selection, highlights extraction, and overlay application. Utilizing the output of the Jabbr.ai DeepStrike model, you can achieve studio-quality production without manual intervention.
+BoxingVidProd is a software suite designed to streamline the production process of videos by automating tasks such as camera angle selection, highlights extraction, and overlay application. Utilizing the output of the Jabbr.ai DeepStrike model, you can achieve studio-quality production without manual intervention.
 
 ## Features
 1. **Camera Angle Selection**: Automatically chooses the best camera angle based on the region of interest (ROI) for each frame.
@@ -36,7 +36,7 @@ AutoVidProd is a software suite designed to streamline the production process of
 ## Usage
 1. Set your desired video path in the `constants.py` file.
 
-Before running AutoVidProd, ensure you have the necessary configuration files set up:
+Before running BoxingVidProd, ensure you have the necessary configuration files set up:
 
 `time_stamps.json`
 
@@ -62,12 +62,12 @@ This YAML file lets you tailor the video production parameters to your preferenc
 
 ## Video Demo
 
-Showcasing a side-by-side comparison between the raw camera streams and the enhanced output from AutoVidProd.
+Showcasing a side-by-side comparison between the raw camera streams and the enhanced output from BoxingVidProd.
 
-| Original Camera Streams | AutoVidProd Output |
+| Original Camera Streams | BoxingVidProd Output |
 |:-----------------------:|:------------------:|
-| [![Original Camera Streams](http://img.youtube.com/vi/XWQKIbC_E2Q/0.jpg)](https://www.youtube.com/watch?v=XWQKIbC_E2Q "Original Camera Streams") | [![AutoVidProd Output](http://img.youtube.com/vi/knAk3Bfg11Y/0.jpg)](http://www.youtube.com/watch?v=knAk3Bfg11Y "AutoVidProd Output") |
-| [![Original Camera Streams](http://img.youtube.com/vi/oZl95mU2DrE/0.jpg)](https://www.youtube.com/watch?v=oZl95mU2DrE "Original Camera Streams") | [![AutoVidProd Output](http://img.youtube.com/vi/lD1YHWC7lzo/0.jpg)](http://www.youtube.com/watch?v=lD1YHWC7lzo "AutoVidProd Output") |
+| [![Original Camera Streams](http://img.youtube.com/vi/XWQKIbC_E2Q/0.jpg)](https://www.youtube.com/watch?v=XWQKIbC_E2Q "Original Camera Streams") | [![BoxingVidProd Output](http://img.youtube.com/vi/knAk3Bfg11Y/0.jpg)](http://www.youtube.com/watch?v=knAk3Bfg11Y "BoxingVidProd Output") |
+| [![Original Camera Streams](http://img.youtube.com/vi/oZl95mU2DrE/0.jpg)](https://www.youtube.com/watch?v=oZl95mU2DrE "Original Camera Streams") | [![BoxingVidProd Output](http://img.youtube.com/vi/lD1YHWC7lzo/0.jpg)](http://www.youtube.com/watch?v=lD1YHWC7lzo "BoxingVidProd Output") |
 
 
 
